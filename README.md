@@ -24,7 +24,7 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 
 Câu nói "Muốn thì tìm cách, không muốn thì tìm lý do"
 
--  <video controls>
+<video controls>
   <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
 </video>
 
