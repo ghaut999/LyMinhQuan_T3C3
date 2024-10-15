@@ -9,6 +9,6 @@ https://github.com/user-attachments/assets/08660e02-7407-42b2-b9cf-2b7ee850df21
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -  <video controls>
-  <source src="C:\Users\SV\Downloads/JAWNY - Honeypie.mp4">
+  <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
 </video>
 
