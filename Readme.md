@@ -2,7 +2,7 @@
 https://github.com/user-attachments/assets/08660e02-7407-42b2-b9cf-2b7ee850df21
 - ##👋 Xin chào
   <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/854426321463279647/41ebd946d8451da2a2aaa4f768dc8bbe.webp" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://discord.com/channels/1118758288658550794/1179432207010508841/1298175305822896150" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
   <h1>👋 Hi, I’m @ghaut999(LyMinhQuan_T3C3)</h1>
   </div> 
 
