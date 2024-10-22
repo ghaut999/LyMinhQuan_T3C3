@@ -14,7 +14,7 @@ Tôi là một lập trình viên đam mê với sự quan tâm đặc biệt đ
 <p align="center">
   <img src="https://img.shields.io/badge/-NodeJS-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-C#-FF6B6B?style=for-the-badge&logo=elysiajs&logoColor=white" alt="Elysia">
+  <img src="https://img.shields.io/badge/-CShaft-FF6B6B?style=for-the-badge&logo=elysiajs&logoColor=white" alt="Elysia">
   <img src="https://img.shields.io/badge/-Bun-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/-TypeScript-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack">
 </p>
