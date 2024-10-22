@@ -29,8 +29,10 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 
 - ⚡ Câu nói yêu thích 😛😛😛😛
 <div align="center"
+  <b1>
 Câu nói "Vấn đề không phải là một người đã được sinh ra như thế nào, mà là họ đã lớn lên ra sao."
-   <video controls>
+</b1>   
+<video controls>
   <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
 </video>
 </div>
