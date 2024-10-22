@@ -33,7 +33,7 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 <b1>
   Email phụ: [Lý Minh Quân] (Ghatt999@gmail.com) 
 </b1>
-/div>
+</div>
 - ⚡ Câu nói yêu thích 😛😛😛😛
 <div align="center">
   <b1>
