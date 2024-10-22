@@ -28,11 +28,11 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 - Email phụ: [Lý Minh Quân] (Ghatt999@gmail.com) hoặc số điện thoại 0967414250 để liên lạc khi cần thiết
 
 - ⚡ Câu nói yêu thích 😛😛😛😛
-
-Câu nói "Muốn thì tìm cách, không muốn thì tìm lý do"
+<div align="center"
+Câu nói "Vấn đề không phải là một người đã được sinh ra như thế nào, mà là họ đã lớn lên ra sao."
    <video controls>
   <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
 </video>
-
+</div>
 
 
