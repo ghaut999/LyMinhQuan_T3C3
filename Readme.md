@@ -27,12 +27,8 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 </div>
 - 📫 Email 📬📬📬📬:
  <div align="center">
-   <b1>
   Email chính: minhquan6773@gmail.com
-   </b1>
-<b1>
   Email phụ: [Lý Minh Quân] (Ghatt999@gmail.com) 
-</b1>
 </div>
 - ⚡ Câu nói yêu thích 😛😛😛😛
 <div align="center">
