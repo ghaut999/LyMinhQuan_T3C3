@@ -2,9 +2,6 @@
 https://github.com/user-attachments/assets/08660e02-7407-42b2-b9cf-2b7ee850df21
 - ##👋 Xin chào
   <div align="center">
-    <video controls>
-  <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
-</video>
   <img src="https://cdn.discordapp.com/attachments/1179432207010508841/1298175305630089269/145711398.jpg?ex=67189b77&is=671749f7&hm=dfab8f604b5283d460f5c18ee0912c2225b1f827445cebdbdc13caa85ce6ce48&" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
   <h1>👋 Hi, I’m @ghaut999(LyMinhQuan_T3C3)</h1>
   </div> 
@@ -33,6 +30,9 @@ Tôi đang làm các dự án nhỏ để áp dụng kiến thức đã học v�
 - ⚡ Câu nói yêu thích 😛😛😛😛
 
 Câu nói "Muốn thì tìm cách, không muốn thì tìm lý do"
+   <video controls>
+  <source src="https://discord.com/channels/1277851227861811313/1277851227861811316/1295653941568339989">
+</video>
 
 
 
